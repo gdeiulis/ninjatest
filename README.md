@@ -1,6 +1,6 @@
 # ninjatest
-STEPS:
-npm install
+## STEPS:
+### npm install
 npm install selenium-webdriver
 npm install chromedriver
 npm install geckodriver
