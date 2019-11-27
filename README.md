@@ -7,7 +7,7 @@
 
 
 ### RUN TESTS:
-. npm --browser=firefox run desktopTest
-. npm --browser=chrome run desktopTest
-. npm --browser=firefox run mobileTest
-. npm --browser=chrome run mobileTest
+* npm --browser=firefox run desktopTest
+* npm --browser=chrome run desktopTest
+* npm --browser=firefox run mobileTest
+* npm --browser=chrome run mobileTest
