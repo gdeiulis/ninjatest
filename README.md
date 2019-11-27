@@ -1,10 +1,9 @@
 # ninjatest
 ## STEPS:
-#### npm install selenium-webdriver
-#### npm install chromedriver
-#### npm install geckodriver
-#### mocha-simple-html-reporter
-#### npm install --save-dev mocha-simple-html-reporter
+1. npm install selenium-webdriver
+2. npm install chromedriver
+3. npm install geckodriver
+4. npm install --save-dev mocha-simple-html-reporter
 
 
 ##RUN TESTS:
