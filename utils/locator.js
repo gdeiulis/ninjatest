@@ -1,0 +1,21 @@
+module.exports = {
+	cookie_consentSel: '.ax-cookie-consent-modal-accept',
+	menuSel: '.ax-header-trigger',
+	homeSel :'.sc-gJWqzi > .sc-fjdhpX > .sc-fjdhpX:nth-child(1) .span',
+	gameSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX > .sc-bZQynM .span:nth-child(1)',
+	ninjatreasureSel :'.sc-fjdhpX:nth-child(1) > .sc-fjdhpX:nth-child(3) > .sc-gzVnrw .span',
+	promotionsSel :'.sc-fjdhpX:nth-child(1) > .sc-fjdhpX:nth-child(4) > .sc-gzVnrw .span',
+	customersuppSel :'.sc-fjdhpX:nth-child(1) > .sc-fjdhpX:nth-child(5) > .sc-gzVnrw .span',
+	allgameSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX > .sc-fjdhpX:nth-child(1) .span',
+	slotSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX > .sc-fjdhpX:nth-child(2) .label-content',
+	livecasinoSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX > .sc-fjdhpX:nth-child(3) .span',
+	jackpotsSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX > .sc-fjdhpX:nth-child(4) .span',
+	tablegameSel :'.sc-fjdhpX:nth-child(2) > .sc-fjdhpX:nth-child(5) .span',
+	languageDM: '.sc-fjdhpX.sc-jWBwVP.nav-bar-main.sc-dymIpo.juhvru.sc-dqBHgY.egsJay',
+	langSel :'.active > .dGeTVM > .span',
+	langSelChild :'.sc-fjdhpX > .sc-fjdhpX > .sc-fjdhpX > .sc-fjdhpX:nth-child(2) > .sc-bZQynM .span',
+	langSelChild2 :'.sc-fjdhpX:nth-child(3) > .sc-bZQynM .span',
+	titleFI:'Ninja Casino I Pelaa Online Casino Suomi 5 Minuutin Kotiutukset',
+	titleEE:'Ninja Casino Online | Ei mingit registreerumist & kohesed väljamaksed NinjaCasino.com-is!',
+	titleRU:'Ninja Casino | Играйте без регистрации и получайте выплаты мгновенно на NinjaCasino.com!'
+};
